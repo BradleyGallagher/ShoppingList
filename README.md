@@ -1,0 +1,2 @@
+# ShoppingList
+Practicing Javascript project.
